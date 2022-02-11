@@ -46,7 +46,7 @@ print(inverse)
 ```
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/RuchithaReddy28/Inverse-of-matrix/blob/main/Screenshot%20(223).png?raw=true)
 
 ## RESULT:
 Thus the program is written to find the matrix.
